@@ -1,0 +1,6 @@
+{
+    "go.inferGopath": false,
+    "go.testEnvVars": {
+      "TEST_ENV_VAR_EXAMPLE":   ""
+    }
+}
